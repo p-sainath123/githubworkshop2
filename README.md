@@ -23,6 +23,8 @@
 
 ![Mumbai indians](https://images.news18.com/ibnlive/uploads/2020/07/1595562166_ipl-mumbai-indians-.jpg?im=FitAndFill,width=1200,height=900)
 
----Sno|team|Players---
----1|
+Sno|Team|players
+---|---|---
+1|MI|ROHIT
+2|MI|PANDYA
     

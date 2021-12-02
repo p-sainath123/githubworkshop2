@@ -21,7 +21,7 @@
       2. google
       3. Microsoft 
 
-![Mumbai indians](https://images.news18.com/ibnlive/uploads/2020/07/1595562166_ipl-mumbai-indians-.jpg?im=FitAndFill,width=1200,height=900)
+![BUMRAH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN26mnD_gDfIuJE9zkuFSnNU6w31Vt60uM7Q&usqp=CAU)
 
 Sno|Team|players
 ---|---|---
